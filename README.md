@@ -46,6 +46,12 @@ Mi nombre es Abel Cornejo. Nací en Salta, Argentina. Estudié business Finance 
 Me llamo Gaspar Cordero Duhalde, tengo 22 años y me encuentro cursando mi cuarto año de la carrera de Derecho en la Universidad de Buenos Aires. Me desarrollo profesionalmente como Escribiente Auxiliar en el Juzgado Nacional de Primera Instancia en lo Civil y Comercial Federal N° 7 e inicié el curso con el fin de tener conocimientos en un area distinta a la que acostumbro y ampliar mi abanico de posibilidades laborales.
 </p>
 
+<h5> Simon Prince </h>
+
+<p>
+Mi nombre es Simon Prince, vivo en Buenos Aires, Capital Federal. Tengo 22 años y trabajo de administrativo para una financiera. Estudio administracion de empresas, e hice un parate para realizar un curso de data analytics y en este momento otro para realizar este curso. Mi objetivo es poder adquirir conocimientos sobre la programacion para seguir desarrollandome en el trabajo y poder aportar soluciones a algunas complicaciones en dicho ambito laboral.
+</p>
+
 <br>
 
 <h4> SITIOS QUE SIRVIERON DE INSPIRACION: </H4>
